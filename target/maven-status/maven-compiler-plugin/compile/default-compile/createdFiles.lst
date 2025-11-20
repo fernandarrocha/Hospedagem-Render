@@ -1,0 +1,10 @@
+com/seuprojeto/pratica09/hospedagem/model/Documento.class
+com/seuprojeto/pratica09/hospedagem/Pratica09HospedagemApplication.class
+com/seuprojeto/pratica09/hospedagem/controller/CategoriaController.class
+com/seuprojeto/pratica09/hospedagem/model/Categoria.class
+com/seuprojeto/pratica09/hospedagem/dto/CategoriaDTO.class
+com/seuprojeto/pratica09/hospedagem/repository/DocumentoRepository.class
+com/seuprojeto/pratica09/hospedagem/controller/DocumentoController.class
+com/seuprojeto/pratica09/hospedagem/config/OpenApiConfig.class
+com/seuprojeto/pratica09/hospedagem/repository/CategoriaRepository.class
+com/seuprojeto/pratica09/hospedagem/dto/DocumentoDTO.class

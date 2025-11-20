@@ -1,0 +1,10 @@
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/Pratica09HospedagemApplication.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/config/OpenApiConfig.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/controller/CategoriaController.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/controller/DocumentoController.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/dto/CategoriaDTO.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/dto/DocumentoDTO.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/model/Categoria.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/model/Documento.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/repository/CategoriaRepository.java
+/home/ubuntu/pratica09-hospedagem-refactor/pratica09-hospedagem/src/main/java/com/seuprojeto/pratica09/hospedagem/repository/DocumentoRepository.java
