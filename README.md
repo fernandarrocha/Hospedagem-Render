@@ -12,8 +12,8 @@ Para executar a aplicação localmente, você precisará ter o **Java Developmen
 
 1.  **Clone o repositório** (assumindo que este código será versionado no GitHub):
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
-    cd pratica09-hospedagem
+    git clone [https://github.com/fernandarrocha/Hospedagem-Render.git]
+    cd pratica09
     ```
 
 2.  **Compile e empacote a aplicação** usando o Maven:
